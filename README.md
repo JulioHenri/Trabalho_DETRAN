@@ -13,3 +13,5 @@ Técnicas:
 - Data Visualization (box-plots, violinplot, histogramas, heatmap, etc.)
 - Teste de hipótese
 - Teste qui-quadrado
+
+Você pode ver o notebook com os códigos <a href = "https://github.com/JulioHenri/Trabalho_DETRAN/blob/main/dataset-and-code/detran.ipynb"> aqui
