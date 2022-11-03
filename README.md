@@ -1,7 +1,9 @@
 # Trabalho DETRAN
  
 O projeto “Operação Verão” do DETRAN tem como objetivo entender o comportamento dos motoristas em municípios do Pará onde há maior sinistros
-de trânsito com morbimortalidade, por meio de gráficos, tabelas e análise de correlações estatísticas realizadas no Python.
+de trânsito com morbimortalidade, por meio de gráficos, tabelas, análise de correlações e testes estatísticos realizados no Python.
+
+![image](https://user-images.githubusercontent.com/64214285/199849737-b205df07-fadb-461a-9c12-071dfb059493.png)
 
 Libs:
 - Pandas, Numpy
